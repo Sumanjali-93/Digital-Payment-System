@@ -1,4 +1,4 @@
-# 🌐 Instant Payment System
+# 🌐 Digital Wallet
 Dynamic Payments • Secure Wallets • Real-Time Transactions • Built on Paymeny System
 
 ![Fintech](https://img.shields.io/badge/Fintech-Instant_Payments-blue)

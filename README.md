@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Digital Wallet & Money Transfer Platform
 
 A modern, mobile-first financial application built with React, Vite, and Tailwind CSS that enables users to manage their digital wallet, send and receive money, track transactions, and analyze spending patterns with real-time currency conversion.

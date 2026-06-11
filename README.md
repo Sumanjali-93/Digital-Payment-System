@@ -15,7 +15,7 @@ A modern, mobile-first financial application built with React, Vite, and Tailwin
 
 ## Features
 
-### 1. Dashboard (Home)
+### 1. Dashboard Home
 - Personalized greeting with time-based messages
 - Real-time balance display with USD/INR toggle
 - Quick action buttons (Send, Request, Add Money)

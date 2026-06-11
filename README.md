@@ -1,5 +1,5 @@
 
-# 🌐 Digital Wallet
+# 🌐 Instant Payment & Digital Wallet
 Dynamic Payments • Secure Wallets • Real-Time Transactions • Built on Paymeny System
 
 ![Fintech](https://img.shields.io/badge/Fintech-Instant_Payments-blue)
@@ -40,29 +40,29 @@ A modern, mobile-first financial application built with React, Vite, and Tailwin
 - Category tagging for transactions
 
 ### 4. Wallet Management
-- ✅ View current balance in USD/INR
-- ✅ Add and manage payment methods (Credit cards, Bank accounts)
-- ✅ Set default payment method
-- ✅ View payment method details
-- ✅ Delete payment methods
+-  View current balance in USD/INR
+-  Add and manage payment methods (Credit cards, Bank accounts)
+-  Set default payment method
+-  View payment method details
+-  Delete payment methods
 
 ### 5. Analytics
-- ✅ View spending patterns
-- ✅ Transaction category breakdown
-- ✅ Monthly comparison charts
-- ✅ Filter by period and category
+- View spending patterns
+- Transaction category breakdown
+- Monthly comparison charts
+- Filter by period and category
 
 ### 6. Profile & Settings
-- ✅ User profile information
-- ✅ Account settings
-- ✅ System preferences
-- ✅ Logout functionality
+- User profile information
+- Account settings
+- System preferences
+- Logout functionality
 
 ### 7. Notifications
-- ✅ Transaction alerts
-- ✅ Security notifications
-- ✅ Money request updates
-- ✅ Real-time notification system
+- Transaction alerts
+- Security notifications
+- Money request updates
+- Real-time notification system
 
 ## Tech Stack
 

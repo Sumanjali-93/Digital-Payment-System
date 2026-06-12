@@ -2,14 +2,7 @@
 # 🌐 Instant Payment & Digital Wallet
 Dynamic Payments • Secure Wallets • Real-Time Transactions • Built on Paymeny System
 
-![Fintech](https://img.shields.io/badge/Fintech-Instant_Payments-blue)
-![Backend](https://img.shields.io/badge/Backend-Spring_Boot-green)
-![Language](https://img.shields.io/badge/Language-Java-orange)
-![Database](https://img.shields.io/badge/Database-PostgreSQL-blue)
-![Cache](https://img.shields.io/badge/Cache-Redis-red)
-![Infrastructure](https://img.shields.io/badge/Infrastructure-Docker-lightblue)
-![Cloud](https://img.shields.io/badge/Cloud-AWS-yellow)
-![License](https://img.shields.io/badge/License-MIT-brightgreen)
+
 
 A modern, mobile-first financial application built with React, Vite, and Tailwind CSS that enables users to manage their digital wallet, send and receive money, track transactions, and analyze spending patterns with real-time currency conversion.
 

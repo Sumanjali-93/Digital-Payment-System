@@ -377,11 +377,11 @@ To connect a real backend, replace the implementations inside `base44.ts` — th
 
 No automated test suite is configured yet. The following manual scenarios have been validated:
 
-- ✅ Currency conversion accuracy across USD ⇄ INR toggles
-- ✅ Transaction filtering by type, status, category, and date range
-- ✅ Optimistic UI updates and rollback on failed mutations
-- ✅ Form validation for transfers, requests, and payment methods (empty, invalid, boundary values)
-- ✅ Responsive layout across mobile, tablet, and desktop breakpoints
+- Currency conversion accuracy across USD ⇄ INR toggles
+- Transaction filtering by type, status, category, and date range
+- Optimistic UI updates and rollback on failed mutations
+- Form validation for transfers, requests, and payment methods (empty, invalid, boundary values)
+- Responsive layout across mobile, tablet, and desktop breakpoints
 
 **Planned additions:**
 - Component rendering tests (Vitest + React Testing Library)
@@ -393,12 +393,12 @@ No automated test suite is configured yet. The following manual scenarios have b
 
 ## 🌐 Browser Support
 
-| Browser | Supported |
-|---|---|
-| Chrome (latest) | ✅ |
-| Firefox (latest) | ✅ |
-| Safari (latest) | ✅ |
-| Edge (latest) | ✅ |
+| Browser Supported |
+|---|
+| Chrome (latest) |
+| Firefox (latest) |
+| Safari (latest) |
+| Edge (latest) |
 
 ---
 

@@ -404,7 +404,6 @@ No automated test suite is configured yet. The following manual scenarios have b
 
 ## 🗺️ Roadmap
 
-- [ ] Real Base44 SDK integration (replace mock service layer)
 - [ ] Push notifications
 - [ ] Offline mode with background sync
 - [ ] Payment gateway integration (Stripe / Razorpay)

@@ -369,7 +369,7 @@ The application communicates with its backend exclusively through the **Base44 S
 - Notification delivery
 - User profile management
 
-To connect a real backend, replace the implementations inside `base44.ts` — the service layer's exported interface is the only contract the rest of the app depends on, so no other files need to change.
+To connect a real backend, replace the implementations inside `org.ts` — the service layer's exported interface is the only contract the rest of the app depends on, so no other files need to change.
 
 ---
 

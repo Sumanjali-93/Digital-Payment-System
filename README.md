@@ -45,8 +45,6 @@
 
 ## 🧭 About The Project
 
-
-<img src="./architecture.png1.png" width="700">
 **Instant Payment & Digital Wallet** is a mobile-first financial application that lets users manage a digital wallet, transfer and request money, monitor balances across currencies, and analyze spending behavior in real time.
 
 The product experience is inspired by the clarity and trust signals of mature payment platforms — instant balance visibility, transparent transaction states, and friction-free transfers — while the codebase applies engineering patterns commonly found in production fintech systems: a strict separation between UI, data-fetching, and domain logic; schema-validated boundaries on every input; and a transaction-first model where the wallet balance is always *derived*, never directly mutated.
